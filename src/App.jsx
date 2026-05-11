@@ -238,7 +238,7 @@ export default function App() {
           <div className="absolute left-0 top-0 bottom-0 w-72 bg-white shadow-xl flex flex-col">
             <div className="p-5 border-b border-stone-200">
               <div className="text-[10px] uppercase tracking-[0.25em] text-stone-500">Government Relations</div>
-              <div className="text-xl font-bold mt-1" style={{ fontFamily: "'Fraunces', serif" }}>NPCI GR Hub</div>
+              <div className="text-xl font-bold mt-1" style={{ fontFamily: "'Fraunces', serif" }}>AI TRACKER</div>
             </div>
             <nav className="flex-1 p-2 overflow-y-auto">
               {navItems.map(item => {
